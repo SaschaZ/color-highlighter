@@ -92,7 +92,7 @@ repositories {
 }
 
 dependencies {
-  detektPlugins("io.gitlab.arturbosch.detekt:detekt-formatting:1.18.1")
+  detektPlugins("io.gitlab.arturbosch.detekt:detekt-formatting:1.20.0")
   implementation("com.thoughtworks.xstream:xstream:1.4.18")
   implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20")
 }
